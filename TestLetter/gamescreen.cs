@@ -156,7 +156,7 @@ namespace TestLetter
         private static OleDbConnection GetConnection()
         {
             string connString;
-            connString = @"Provider=Microsoft.ACE.OLEDB.12.0; Data Source=C:\Users\Nkem\Documents\workappdev\TestLetter\Database31.accdb";
+            connString = @"Provider=Microsoft.ACE.OLEDB.12.0; Data Source=|DataDirectory|\Database31.accdb";
             //  change to your connection string
             return new OleDbConnection(connString);
         }

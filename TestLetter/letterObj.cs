@@ -55,7 +55,7 @@ namespace TestLetter
         {
             int index = alphabetindex;
             string letter = ((Letters)index).ToString();
-            return (@"C:\Users\Nkem\Documents\workappdev\imageobjects\Letters\" + letter + ".png");
+            return (@"imageobjects\Letters\" + letter + ".png");
 
         }
 }
