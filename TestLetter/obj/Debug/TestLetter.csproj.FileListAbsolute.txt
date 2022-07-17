@@ -1,0 +1,63 @@
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\obj\Debug\TestLetter.csprojAssemblyReference.cache
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\obj\Debug\TestLetter.Properties.Resources.resources
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\obj\Debug\TestLetter.csproj.GenerateResource.cache
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\obj\Debug\TestLetter.csproj.CoreCompileInputs.cache
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\bin\Debug\TestLetter.exe.config
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\bin\Debug\TestLetter.exe
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\bin\Debug\TestLetter.pdb
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\obj\Debug\TestLetter.exe
+C:\Users\Nkem\source\repos\TestLetter\TestLetter\obj\Debug\TestLetter.pdb
+C:\Users\Nkem\Documents\TestLetter\TestLetter\bin\Debug\TestLetter.exe.config
+C:\Users\Nkem\Documents\TestLetter\TestLetter\bin\Debug\TestLetter.exe
+C:\Users\Nkem\Documents\TestLetter\TestLetter\bin\Debug\TestLetter.pdb
+C:\Users\Nkem\Documents\TestLetter\TestLetter\obj\Debug\TestLetter.csprojAssemblyReference.cache
+C:\Users\Nkem\Documents\TestLetter\TestLetter\obj\Debug\TestLetter.Properties.Resources.resources
+C:\Users\Nkem\Documents\TestLetter\TestLetter\obj\Debug\TestLetter.csproj.GenerateResource.cache
+C:\Users\Nkem\Documents\TestLetter\TestLetter\obj\Debug\TestLetter.csproj.CoreCompileInputs.cache
+C:\Users\Nkem\Documents\TestLetter\TestLetter\obj\Debug\TestLetter.exe
+C:\Users\Nkem\Documents\TestLetter\TestLetter\obj\Debug\TestLetter.pdb
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\bin\Debug\TestLetter.exe.config
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\bin\Debug\TestLetter.exe
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\bin\Debug\TestLetter.pdb
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.csprojAssemblyReference.cache
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.Form1.resources
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.gamescreen.resources
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.Help.resources
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.Properties.Resources.resources
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.csproj.GenerateResource.cache
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.csproj.CoreCompileInputs.cache
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.exe
+C:\Users\Nkem\Documents\TestLetter - Copy\TestLetter\obj\Debug\TestLetter.pdb
+C:\Users\Nkem\Documents\workappdev\TestLetter\bin\Debug\TestLetter.exe.config
+C:\Users\Nkem\Documents\workappdev\TestLetter\bin\Debug\TestLetter.exe
+C:\Users\Nkem\Documents\workappdev\TestLetter\bin\Debug\TestLetter.pdb
+C:\Users\Nkem\Documents\workappdev\TestLetter\obj\Debug\TestLetter.Form1.resources
+C:\Users\Nkem\Documents\workappdev\TestLetter\obj\Debug\TestLetter.gamescreen.resources
+C:\Users\Nkem\Documents\workappdev\TestLetter\obj\Debug\TestLetter.Properties.Resources.resources
+C:\Users\Nkem\Documents\workappdev\TestLetter\obj\Debug\TestLetter.csproj.GenerateResource.cache
+C:\Users\Nkem\Documents\workappdev\TestLetter\obj\Debug\TestLetter.csproj.CoreCompileInputs.cache
+C:\Users\Nkem\Documents\workappdev\TestLetter\obj\Debug\TestLetter.exe
+C:\Users\Nkem\Documents\workappdev\TestLetter\obj\Debug\TestLetter.pdb
+C:\Users\Nkem\Documents\workappdev\TestLetter\obj\Debug\TestLetter.csprojAssemblyReference.cache
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\bin\Debug\TestLetter.exe.config
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\bin\Debug\TestLetter.exe
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\bin\Debug\TestLetter.pdb
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\obj\Debug\TestLetter.csprojAssemblyReference.cache
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\obj\Debug\TestLetter.Form1.resources
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\obj\Debug\TestLetter.gamescreen.resources
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\obj\Debug\TestLetter.Properties.Resources.resources
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\obj\Debug\TestLetter.csproj.GenerateResource.cache
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\obj\Debug\TestLetter.csproj.CoreCompileInputs.cache
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\obj\Debug\TestLetter.exe
+C:\Users\Nkem\source\repos\workappdev Nkem Akwari 00978914\workappdev\TestLetter\obj\Debug\TestLetter.pdb
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\bin\Debug\TestLetter.exe.config
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\bin\Debug\TestLetter.exe
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\bin\Debug\TestLetter.pdb
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\obj\Debug\TestLetter.Form1.resources
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\obj\Debug\TestLetter.gamescreen.resources
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\obj\Debug\TestLetter.Properties.Resources.resources
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\obj\Debug\TestLetter.csproj.GenerateResource.cache
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\obj\Debug\TestLetter.csproj.CoreCompileInputs.cache
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\obj\Debug\TestLetter.exe
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\obj\Debug\TestLetter.pdb
+C:\Users\Nkem\source\repos\workappdev-Letter Collecting Game\workappdev\TestLetter\obj\Debug\TestLetter.csprojAssemblyReference.cache
